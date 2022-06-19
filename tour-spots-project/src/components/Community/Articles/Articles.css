@@ -1,0 +1,38 @@
+.articles{
+    margin-top: 10px;
+    padding: 7px;
+    border-radius: 7px;
+    background-color: whitesmoke;
+}
+.row-1{
+    display: grid;
+    grid-template-columns: 2.5fr 9.5fr;
+}
+.img{
+    border-radius: 7px;
+}
+.text{
+    padding-left: 7px;
+}
+.row-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.notFound{
+    text-align: center;
+    margin-top: 100px;
+    color: orangered;
+}
+.author{
+    background-color: palegreen;
+    font-size: 13px;
+    padding: 3px 6px;
+    border-radius: 5px;
+    align-items: center;
+}
+.pe-2{
+    padding-right: 8px;
+}
+h5{
+    margin-top: 0.5rem;
+}
